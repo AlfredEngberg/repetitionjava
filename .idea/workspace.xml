@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c14f467c-c3c5-4fd5-95bf-681fb7e0cb82" name="Changes" comment="initial commit and push">
+    <list default="true" id="c14f467c-c3c5-4fd5-95bf-681fb7e0cb82" name="Changes" comment="fixade så att den laddar in filen in i en arraylsit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -32,7 +32,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/code/projekt/repetitionjava"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -55,7 +56,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1681821034483</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="fixade så att den laddar in filen in i en arraylsit">
+      <created>1681823229284</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1681823229284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit and push" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit and push" />
+    <MESSAGE value="fixade så att den laddar in filen in i en arraylsit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixade så att den laddar in filen in i en arraylsit" />
   </component>
 </project>
